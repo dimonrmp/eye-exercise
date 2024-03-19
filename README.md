@@ -1,19 +1,25 @@
 # Eyes exercise
 
+
 ### What the project does?
 It displays two eyes that follow your mouse movement
+
 
 ### Why the project is useful
 It teaches how to manipulate CSS styles with Javascript programming
 
+
 ### Installation/How to run
 The contents of the project needs to be placed on the web-server to make it available on the Internet, otherwise no need for any installation, just open index.html in your browser
+
 
 ### Usage
 Clone the repo and open locally index.html in your browser, no need to install or configure anything else.
 
+
 ### Roadmap of future improvements
 Curently I do not plan any further activities in this repository. 
+
 
 ### License
 MIT License
